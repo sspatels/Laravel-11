@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "Sachin",
+        "email" : "sachin@example.com",
+        "phone_number" : 1234567890,
+        "status" : "active",
+        "description" : "A diligent student"
+    },
+    {
+        "name" : "Aaarti",
+        "email" : "aarati@example.com",
+        "phone_number" : 1234567890,
+        "status" : "active",
+        "description" : "A diligent student"
+    },
+    {
+        "name" : "sohan",
+        "email" : "sohan@example.com",
+        "phone_number" : 1234567890,
+        "status" : "active",
+        "description" : "A diligent student"
+    }
+]
